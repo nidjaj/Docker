@@ -1,0 +1,4 @@
+from nginx
+maintainer nidhi07maheshwari@gmail.com
+copy webapp /usr/share/nginx/html/
+expose 80

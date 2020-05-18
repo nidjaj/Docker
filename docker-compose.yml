@@ -1,0 +1,6 @@
+version: '3.5'
+services:
+ nidhiapp1:
+  image: alpine
+  container_name : nid11
+  command: ping fb.com
